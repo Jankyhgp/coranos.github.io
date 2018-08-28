@@ -2,7 +2,7 @@
 
 | Number | Discord Id            | Progress               | Ghpages Index            |
 |:------ |:--------------------- |:---------------------- |:------------------------ |
-| 00     |                       | Completed Lesson       |                          |
+| 00     | BATNANO#9300          | Completed Lesson one   |                          |
 | 01     | Coranos#4281          | Completed Lesson Four  |[coranos.github.io]       |
 | 02     | Mayrapina#9547        | Completed Lesson Two   |[mayrapina007.github.io]  |
 | 69     | not_idol#3950         | Completed Lesson Four  |[not-idol.github.io]      |
